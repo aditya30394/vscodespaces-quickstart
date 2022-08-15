@@ -2,5 +2,6 @@
     "name": "VS Codespaces Quickstart Sample",
     "extensions": [
         "dbaeumer.vscode-eslint"
-    ]
+    ],
+    "forwardPorts": [5000]
 }
